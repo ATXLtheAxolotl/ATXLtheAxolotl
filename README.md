@@ -2,3 +2,6 @@
 ### Heyo ATXL here 👋!
 
 I'm primarily a TS/JS dev and worked mainly with things like Minecraft, discord bots, unity games, all sorts of stuff! 
+
+## Stats:
+![ATXL's GitHub stats](https://github-readme-stats.vercel.app/api?username=ATXLtheAxolotl&show_icons=true&theme=react)
