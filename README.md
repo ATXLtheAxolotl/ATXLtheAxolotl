@@ -5,3 +5,4 @@ I'm primarily a TS/JS dev and worked mainly with things like Minecraft, discord 
 
 ## Stats:
 ![ATXL's GitHub stats](https://github-readme-stats.vercel.app/api?username=ATXLtheAxolotl&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ATXLtheAxolotl&layout=compact&theme=react)
